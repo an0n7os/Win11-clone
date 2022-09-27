@@ -273,7 +273,7 @@ const initialState = {
       height: 35,
       onClick: () => {
         window.open(
-          "https://twitter.com/an07os",
+          "https://twitter.com/aswinkrishnavb",
           "_blank",
           WIN_FEATURES
         );
